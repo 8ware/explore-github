@@ -1,3 +1,3 @@
 
-![Screenshot](screenshot.png)
+![Screenshot](doc/screenshot.png)
 
